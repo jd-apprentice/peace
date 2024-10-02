@@ -1,7 +1,7 @@
 {
-  "name": "Indigo Theme",
-  "version": "0.1.2",
-  "authors": ["p3rception <dim.pergel@gmail.com>"],
-  "description": "Dark. Clean. Indigo.",
-  "repository": "https://github.com/p3rception/Indigo-zed"
+  "name": "Peace Theme",
+  "version": "0.1.0",
+  "authors": ["jd-apprentice <contacto@jonathan.com.ar>"],
+  "description": "Simple. Peaceful",
+  "repository": "https://github.com/jd-apprentice/peace"
 }
